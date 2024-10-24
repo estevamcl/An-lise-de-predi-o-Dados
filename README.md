@@ -5,4 +5,5 @@ O objetivo deste projeto foi fazer uma análise para prever o salário médio de
 
 
 Link do Canvas com a apresentação:
+
 https://www.canva.com/design/DAFDEFViAvc/Q-9uzDasaPlPtUcHKVVI_g/view?utm_content=DAFDEFViAvc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
